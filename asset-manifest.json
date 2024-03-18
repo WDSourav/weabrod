@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weabrod/static/css/main.f855e6bc.css",
+    "main.js": "/weabrod/static/js/main.ded4ef56.js",
+    "static/js/453.63261c35.chunk.js": "/weabrod/static/js/453.63261c35.chunk.js",
+    "index.html": "/weabrod/index.html",
+    "main.f855e6bc.css.map": "/weabrod/static/css/main.f855e6bc.css.map",
+    "main.ded4ef56.js.map": "/weabrod/static/js/main.ded4ef56.js.map",
+    "453.63261c35.chunk.js.map": "/weabrod/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ded4ef56.js"
+  ]
+}
